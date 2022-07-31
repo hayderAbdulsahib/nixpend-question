@@ -1,0 +1,39 @@
+.light-border {
+  height: 500px;
+  width: 250px;
+  background-color: black;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+}
+
+.light-green {
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+  border-radius: 50%;
+}
+
+.light-yellow {
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+  border-radius: 50%;
+}
+
+.light-red {
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+  border-radius: 50%;
+}
+
+.person-icon {
+  font-size: 150px;
+  color: black;
+}
