@@ -20,7 +20,7 @@ const chartData = async () => {
     monthsLabel = months;
     numbersLabel = numbers;
   } catch (error) {
-    console.log(error);
+    throw error;
   }
 };
 
